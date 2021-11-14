@@ -1,3 +1,11 @@
+package src.lesson1;
+
+/**
+ * Java1.src.lesson1.HomeWorkOne
+ *
+ * @author  Pavel
+ * @version 12.11.2020
+ */
 public class HomeWorkOne {
     public static void main(String[] args) {
         printThreeWords();
