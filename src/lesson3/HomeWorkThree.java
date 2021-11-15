@@ -1,4 +1,6 @@
-package src.lesson3; /**
+package src.lesson3;
+
+/**
  * Java1.src.lesson3.HomeWorkThree
  *
  * @author  Pavel
